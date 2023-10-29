@@ -1,0 +1,1 @@
+We can configure the default text editor for Git using the core.editor command. Besides VS Code, there are many other options to choose from including Atom, Sublime Text, Notepad and so much more. You can check the documentation here to see the full list.
